@@ -33,13 +33,14 @@
   <img src="https://cdn.iconscout.com/icon/premium/png-512-thumb/php-2752101-2284918.png?f=webp&w=256" height=65></img>
   <img src="https://cdn.iconscout.com/icon/premium/png-512-thumb/laravel-9305885-7694084.png?f=webp&w=256" height=65></img>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/PhpStorm_Icon.svg/768px-PhpStorm_Icon.svg.png?20200803075927" height=65></img>
-  <img src="https://cdn.iconscout.com/icon/free/png-512/free-heroku-8-1175211.png?f=webp&w=256" height=65></img>
   <img src="https://cdn.iconscout.com/icon/free/png-512/free-mysql-21-1174941.png?f=webp&w=256" height=65></img>
   <img src="https://cdn.iconscout.com/icon/free/png-512/free-git-17-1175218.png?f=webp&w=256" height=65></img>
   <img src="https://cdn.iconscout.com/icon/free/png-512/free-composer-285363.png?f=webp&w=256" height=65></img>
+  <img src="https://cdn.iconscout.com/icon/free/png-512/free-aws-1869025-1583149.png?f=webp&w=256" height=65></img>
 </p>
 <p align="left">
-  <img src="https://cdn.iconscout.com/icon/free/png-512/free-aws-1869025-1583149.png?f=webp&w=256" height=65></img>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Xdebug_Logo.svg/527px-Xdebug_Logo.svg.png" height=65></img>
+  <img src="https://cdn.iconscout.com/icon/free/png-512/free-heroku-8-1175211.png?f=webp&w=256" height=65></img>
   <img src="https://cdn.iconscout.com/icon/free/png-512/free-postman-3521648-2945092.png?f=webp&w=256" height=65></img>
   <img src="https://cdn.iconscout.com/icon/free/png-512/free-trello-13-1175080.png?f=webp&w=256" height=65></img>
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e8/TMetric_Logo.png" height=65></img>
