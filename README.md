@@ -37,6 +37,8 @@
   <img src="https://cdn.iconscout.com/icon/free/png-512/free-mysql-21-1174941.png?f=webp&w=256" height=65></img>
   <img src="https://cdn.iconscout.com/icon/free/png-512/free-git-17-1175218.png?f=webp&w=256" height=65></img>
   <img src="https://cdn.iconscout.com/icon/free/png-512/free-composer-285363.png?f=webp&w=256" height=65></img>
+</p>
+<p align="left">
   <img src="https://cdn.iconscout.com/icon/free/png-512/free-aws-1869025-1583149.png?f=webp&w=256" height=65></img>
   <img src="https://cdn.iconscout.com/icon/free/png-512/free-postman-3521648-2945092.png?f=webp&w=256" height=65></img>
   <img src="https://cdn.iconscout.com/icon/free/png-512/free-trello-13-1175080.png?f=webp&w=256" height=65></img>
