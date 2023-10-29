@@ -71,10 +71,6 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=katekoltsova)](https://git.io/streak-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=katekoltsova)](https://github.com/katekoltsova/github-profile-trophy)
-
-<!---Для компактной версии-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=katekoltsova&layout=compact)](https://github.com/katekoltsova/github-readme-stats)
-
-<!---Для подробной версии-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=katekoltsova)](https://github.com/katekoltsova/github-readme-stats)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KateKoltsova&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=KateKoltsova&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KateKoltsova&theme=github_dark)
