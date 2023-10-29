@@ -74,3 +74,6 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KateKoltsova&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=KateKoltsova&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KateKoltsova&theme=github_dark)
+
+![](https://github-profile-trophy.vercel.app/?username=katekoltsova&theme=darkhub&row=1&column=6&margin-h=15&no-bg=trues&no-frame=true)
+
