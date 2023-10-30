@@ -74,6 +74,11 @@
         </td>
     </tr>
     <tr align="center">
+         <td>
+            <a href=""><img src="https://leetcode-stats.vercel.app/api?username=KateKoltsova&theme=Dark" /></a>
+        </td>
+    </tr>
+    <tr align="center">
         <td>
             <a href=""><img src="https://github-readme-streak-stats.herokuapp.com?user=katekoltsova&theme=github-dark-blue&card_width=700&border=333333" /></a>
         </td>
@@ -98,8 +103,10 @@
 
 <!--[![codewars](https://www.codewars.com/users/KateKoltsova/badges/small)](https://www.codewars.com/users/KateKoltsova)
 
-//![](https://github-readme-streak-stats.herokuapp.com/?user=katekoltsova&theme=github-dark-blue&card_width=700&border=333333)
-//![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KateKoltsova&theme=github_dark)
+![](https://leetcode.card.workers.dev/KateKoltsova?theme=dark&font=baloo&extension=null)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=katekoltsova&theme=github-dark-blue&card_width=700&border=333333)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KateKoltsova&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=KateKoltsova&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KateKoltsova&theme=github_dark)
 
