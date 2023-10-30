@@ -67,13 +67,42 @@
 
 <h2 align="center">Achievements:</h2>
 
-[![codewars](https://www.codewars.com/users/KateKoltsova/badges/small)](https://www.codewars.com/users/KateKoltsova)
+<table align="center">
+    <tr align="center">
+         <td>
+            <a href=""><img src="https://www.codewars.com/users/KateKoltsova/badges/small" /></a>
+        </td>
+    </tr>
+    <tr align="center">
+        <td>
+            <a href=""><img src="https://github-readme-streak-stats.herokuapp.com?user=katekoltsova&theme=github-dark-blue&card_width=700&border=333333" /></a>
+        </td>
+    </tr>
+    <tr align="center">
+         <td>
+            <a href=""><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KateKoltsova&theme=github_dark" /></a>
+             <a href=""><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=KateKoltsova&theme=github_dark" /></a>
+        </td>
+    </tr>
+    <tr align="center">
+         <td>
+            <a href=""><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KateKoltsova&theme=github_dark" /></a>
+        </td>
+    </tr>
+    <tr align="center">
+         <td>
+            <a href=""><img src="https://github-profile-trophy.vercel.app/?username=katekoltsova&theme=darkhub&row=1&column=6&margin-h=15&no-bg=trues&no-frame=true" /></a>
+        </td>
+    </tr>
+</table>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=katekoltsova)](https://git.io/streak-stats)
+<!--[![codewars](https://www.codewars.com/users/KateKoltsova/badges/small)](https://www.codewars.com/users/KateKoltsova)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KateKoltsova&theme=github_dark)
+//![](https://github-readme-streak-stats.herokuapp.com/?user=katekoltsova&theme=github-dark-blue&card_width=700&border=333333)
+//![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KateKoltsova&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=KateKoltsova&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KateKoltsova&theme=github_dark)
 
 ![](https://github-profile-trophy.vercel.app/?username=katekoltsova&theme=darkhub&row=1&column=6&margin-h=15&no-bg=trues&no-frame=true)
+-->
 
