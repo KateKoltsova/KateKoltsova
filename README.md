@@ -75,7 +75,7 @@
     </tr>
     <tr align="center">
          <td>
-            <a href=""><img src="https://leetcode-stats.vercel.app/api?username=KateKoltsova&theme=Dark" height=185/></a>
+            <a href=""><img src="https://leetcode-stats.vercel.app/api?username=KateKoltsova&theme=dark" height=185/></a>
         </td>
     </tr>
     <tr align="center">
