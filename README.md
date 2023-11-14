@@ -49,7 +49,7 @@
       <td><img src="https://cdn.iconscout.com/icon/free/png-512/free-git-17-1175218.png?f=webp&w=256" height=65></img></td>
       <td><img src="https://cdn.iconscout.com/icon/free/png-512/free-composer-285363.png?f=webp&w=256" height=65></img></td>
       <td><img src="https://cdn.iconscout.com/icon/free/png-512/free-aws-1869025-1583149.png?f=webp&w=256" height=65></img></td>
-<!--       <td><img src="https://api.iconify.design/logos/swagger.svg" height=65></img></td> -->
+      <td><img src="https://api.iconify.design/logos/swagger.svg" height=65></img></td>
     </tr>
     <tr></tr>
     <tr align="center">  
