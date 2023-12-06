@@ -60,7 +60,7 @@
       <td><img src="https://upload.wikimedia.org/wikipedia/commons/e/e8/TMetric_Logo.png" height=65></img></td>
       <td><img src="https://cdn.iconscout.com/icon/free/png-512/free-html-3628838-3030115.png?f=webp&w=256" height=65></img></td>
       <td><img src="https://cdn.iconscout.com/icon/free/png-512/free-css-131-722685.png?f=webp&w=256" height=65></img></td>
-<!--       <td><img src="https://cdn.iconscout.com/icon/free/png-512/free-docker-12-1175229.png?f=webp&w=256" height=65></img></td> -->
+      <td><img src="https://cdn.iconscout.com/icon/free/png-512/free-docker-12-1175229.png?f=webp&w=256" height=65></img></td>
     </tr>
   </table>
  </p>
