@@ -5,7 +5,7 @@
   <br>
     🧑‍💻 By now I'm analyst, but I'm developing my pet-project web site
   <br>
-    🌍 I speak Ukraine (native), English (B1)
+    🌍 I speak Ukrainian (native), English (B1)
 </p>
 
 <br>
