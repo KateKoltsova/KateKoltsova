@@ -1,11 +1,11 @@
 <h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/kate-koltsova/" target="_blank">Kateryna!</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <p align="center">
-    👩‍🎓 I’m currently learning Backend & PHP, Data Science & Python
+    🧑‍💻 Now I'm an analyst, but I'm also developing my pet-project website
   <br>
-    🧑‍💻 By now I'm analyst, but I'm developing my pet-project web site
+    👩‍🎓 Currently, I am actively learning the backend in PHP & Laravel, and also I am interested in data science and Python, due to my current job
   <br>
-    🌍 I speak Ukrainian (native), English (B1)
+    🌍 I speak Ukrainian (native) and English (B1)
 </p>
 
 <br>
