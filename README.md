@@ -3,7 +3,7 @@
 <p align="center">
     🧑‍💻 Now I'm an analyst, but I'm also developing my pet-project website
   <br>
-    👩‍🎓 Currently, I am actively learning the backend in PHP & Laravel, and also I am interested in data science and Python, due to my current job
+    👩‍🎓 Currently, I am actively learning the backend in PHP & Laravel, and also I am interested in Data Science and Python, due to my current job
   <br>
     🌍 I speak Ukrainian (native) and English (B1)
 </p>
